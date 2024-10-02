@@ -43,10 +43,9 @@
 
 1. **Create Customer**
 {
-  "order_date": "2024-10-01",
-  "delivery_date": "2024-10-05",
-  "customer_id": 1,
-  "items": [1, 3]  // List of product IDs associated with this order
+    "customer_name": "Kate Cool",
+    "email": "kate@gmail.com", 
+    "phone": "8228283383"
 }
 
 2. **Create Product** 
